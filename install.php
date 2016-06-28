@@ -24,7 +24,7 @@ if (0 === count($params)) {
         //Требуемые для работы сущности портала (из настроек приложения в портале)
         'B24_APPLICATION_SCOPE'  => ['task'],
         //URL приложения после установки (из настроек приложения в портале)
-        'B24_REDIRECT_URI'       => 'http://<APP_DOMAIN>/app.php',
+        'B24_REDIRECT_URI'       => 'https://<APP_DOMAIN>/app.php',
         //Домен портала
         'DOMAIN'                 => $_REQUEST['DOMAIN'],
         //Уникальный идентификатор приложения
