@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mesilov/bitrix24-php-sdk": "^0.2.0",
+        "defuse/php-encryption": "^2.0"
+    }
+}
